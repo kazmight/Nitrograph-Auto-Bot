@@ -1,4 +1,4 @@
-## NitroGraph Auto BOT
+## Nitro Graph Auto BOT
 
 *This is an automation bot for NitroGraph written in Node.js.
 It automatically logs in with your wallet private keys, verifies referral code, fetches user data, claims daily credits, and performs daily check-in.*
